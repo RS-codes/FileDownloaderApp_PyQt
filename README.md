@@ -14,3 +14,4 @@ added 11_FileDownloaderApplication_v4.py
 added 12_QLineEdit.py
 added 13_QLabel.py
 added 14_QCheckBox.py
+added 15_QComboBox.py
